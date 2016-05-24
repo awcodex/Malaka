@@ -1,0 +1,24 @@
+@media screen and (max-width: 768px) {
+
+	#malaka{
+		display: none;
+	}
+.main-navigation{
+	float: none;
+}
+	.tinynav { 
+		display: block; 
+		width: 100%;
+		padding:5px 0px;
+		margin:10px 0px;
+		border-radius: 3px;
+	}
+
+	#masthead .site-branding{
+		margin:20px 0px;
+		text-align: center;
+		padding: 10px 0px;
+	}
+
+
+}
